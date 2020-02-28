@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    padding: 2em;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 1.8em;
+}
+
+p{
+    background-color: black;
+    color: white;
+    border: solid gray 2px;
+    box-shadow: black 20px;                                                                                                                                                            
+}
